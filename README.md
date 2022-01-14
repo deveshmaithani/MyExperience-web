@@ -1,0 +1,2 @@
+# MyExperience-web
+MyExperience is a web application which is built in java. By Using this platform Students can  share their experiences with others. This platform is very helpful for colleges where companies  come to hire students. Students who are get placed in the company can write the whole process  on this platform as a blog or about the company which can help next year's students for the  placement.
